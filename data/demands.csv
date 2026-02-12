@@ -1,0 +1,11 @@
+facility_id,daily_demand,priority_level
+MED_CENTER , 80, Low
+ENGLISH_BUILDING, 30, high
+SCIENCE_HALL, 25, medium
+DORM_A, 45, low
+DORM_B, 51,LOW
+LIBRARY, 30, medium
+STADIUM, 25, medium
+COMM_CENTER, 23, MEDIUM
+PUBLIC_SCHOOL, 35,MEDIUM
+LOCAL_HOSPITAL, 80, high
