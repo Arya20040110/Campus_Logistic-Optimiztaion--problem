@@ -132,6 +132,5 @@ Mixed Integer Linear Programming (MILP) using PuLP
 
 ## Conclusion
 
-The MILP optimization model successfully determines the most cost-effective warehouse selection and supply distribution strategy. The system is fully data-driven and scalable for real-world logistics optimization.
-
+The MILP optimization model successfully identifies the most cost-effective warehouse configuration and optimal supply distribution plan. The framework is fully data-driven, scalable, and adaptable for real-world logistics network design and emergency supply chain optimization.
 
