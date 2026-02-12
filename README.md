@@ -27,7 +27,7 @@ Six critical campus facilities were selected.
 | Facility ID  | Facility Name         | Type        | Daily Demand (Units) |
 | ------------ | --------------------- | ----------- | -------------------- |
 | MED_CENTER   | Campus Medical Center | Hospital    | ~50                  |
-| ENG_BUILDING | Engineering Building  | Academic    | ~25-40              |
+| ENG_BUILDING | Engineering Building  | Academic    | ~20-40              |
 | SCIENCE_HALL | Science Hall          | Academic    | ~15–35              |
 | DORM_A       | North Dormitory       | Residential | ~20–55               |
 | DORM_B       | South Dormitory       | Residential | ~20–50               |
