@@ -26,12 +26,12 @@ Six critical campus facilities were selected.
 
 | Facility ID  | Facility Name         | Type        | Daily Demand (Units) |
 | ------------ | --------------------- | ----------- | -------------------- |
-| MED_CENTER   | Campus Medical Center | Hospital    | ~80                  |
-| ENG_BUILDING | Engineering Building  | Academic    | ~30                  |
-| SCIENCE_HALL | Science Hall          | Academic    | ~23–35               |
-| DORM_A       | North Dormitory       | Residential | ~40–55               |
-| DORM_B       | South Dormitory       | Residential | ~45–51               |
-| LIBRARY      | Main Library          | Academic    | ~25–30               |
+| MED_CENTER   | Campus Medical Center | Hospital    | ~50                  |
+| ENG_BUILDING | Engineering Building  | Academic    | ~25-40              |
+| SCIENCE_HALL | Science Hall          | Academic    | ~15–35              |
+| DORM_A       | North Dormitory       | Residential | ~20–55               |
+| DORM_B       | South Dormitory       | Residential | ~20–50               |
+| LIBRARY      | Main Library          | Academic    | ~15-40             |
 
 Total Daily Demand ≈ 269–270 Units/Day
 
