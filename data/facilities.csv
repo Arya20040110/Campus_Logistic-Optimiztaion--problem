@@ -1,0 +1,11 @@
+facility_id,facility_name,facility_type,latitude,longitude
+MED_CENTER,Campus Medical Center,Hospital,41.0075,-72.9626
+ENG_BUILDING,Engineering Building,Academic,40.81,-73.96
+SCIENCE_HALL,Science Hall,Academic,42.805,-70.965
+DORM_A,North Dormitory,Residential,42.812,-70.959
+DORM_B,South Dormitory,Residential,41.803,-72.966
+LIBRARY,Main Library,Academic,41.8085,-72.963
+STADIUM,University Stadium,Recreational,42.804,-70.964
+COMM_CENTER,Community Center,Community,41.806,-72.961
+PUBLIC_SCHOOL,Local Public School,School,41.802,-72.967
+LOCAL_HOSPITAL,Community Hospital,Hospital,41.809,-72.958
